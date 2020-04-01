@@ -13,14 +13,14 @@
 ## **Dados coletados**
 
 ```
-Stéfano Cypestre (19)
-* Não
-* Casa
-* 4 a 5
-* Estuda
-* Músca
-* Não
-* Adotaria
+Stéfano Cypestre (19)             Igor Pereira (32)
+*Não                              *Sim
+*Casa                             *Apartamento
+*4 a 5
+*Estuda
+*Músca
+*Não
+*Adotaria
 ```
 ```
 
