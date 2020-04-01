@@ -35,9 +35,8 @@
 | Shelly Alvarenga  | 18  | Sim | Casa        | 2 a 3     | Estuda            | Ler                    | +10 | Adotaria |
 | Fernando Postay   | 18  | Sim | Casa        | 2 a 3     | Desempregado      | Surfar                 |     | Adotaria |
 | Daniel Carneiro   | 20  | Sim | Casa        | 1         | Trabalha          | Dormir                 | Não | Não      |
-| Sthefany Gonçalvez| 24  | Sim | Apartamento | 2 a 3     | Trabalha          |  Sair                  | Não | Adotaria |
-
-||||||||| Adotaria |
+| Sthefany Gonçalvez| 24  | Sim | Apartamento | 2 a 3     | Trabalha          | Sair                   | Não | Adotaria |
+| Ariel Cristine    | 20  | Não | Casa        | 2 a 3     | Estuda            |                        || Adotaria |
 ||||||||| Adotaria |
 ||||||||||
 ||||||||||
