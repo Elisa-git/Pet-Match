@@ -15,9 +15,7 @@
 | Nome              |  2  |  3  | 4     | 5      | 6      | 7   | 8        |
 | ----------------- | --- | --- | ----- | ------ | ------ | --- | -------- |
 |  Stéfano Cypestre |  19 | Não | 4 a 5 | Estuda | Música | Não | Adotaria |
-
-
-|  Igor Pereira |  32 |
+|  Igor Pereira     |  32 | Apartamento | 2 a 3 | Trabalha e estuda |  não | não |
 
 
 
