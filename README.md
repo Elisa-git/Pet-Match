@@ -13,35 +13,58 @@
 
 ## **Dados coletados**
 
-| Nome              | 2   |  3  | 4           | 5         | 6                 | 7                      | 8   | 9        |
-| :---------------: | :-: | :-: | :---------: | :-----:   | :---------------: | :--------------------: | :-: | :------: |
-| Stéfano Cypestre  | 19  | Não | Casa        | 4 a 5     | Estuda            | Música                 | Não | Adotaria |
-| Igor Pereira      | 32  | Sim | Apartamento | 2 a 3     | Trabalha e estuda |                        | Não | Não      |
-| Alicy Lessa       | 15  | Sim | Casa        | 4 a 5     | Estuda            | Ler                    | Não | Adotaria |
-| Gabriela Pizano   | 18  | Sim | Apartamento | 1         | Trabalha e estuda | Filmes e séries        | 1   | Adoratia |
-| Suzan Velasco     | 19  | Sim | Casa        |           | Trabalha e estuda | Brincar com o cachorro | 3   | Adotaria |
-| Evelyn Soeiro     | 19  | Não | Casa        | 4 a 5     | Estuda            | Sair com os amigos     | 2   | Adotaria |
-| Felipe Xavier     | 18  | Sim | Casa        | 2 a 3     | Estuda            | Ver animes             | 2   | Adotaria |
-| Amanda Taufner    | 18  | Não | Casa        | 4 a 5     | Estuda e trabalha | Filmes, séries e praia | 4   | Adotaria |
-| Thais Barbosa     | 24  | Não | Casa        | 2 a 3     | Trabalha          | Sair com os amigos     | Não | Não      |
-| Matheus Felipe    | 19  | Sim | Casa        | 4 a 5     | Estuda            | Procrastinar           | 1   | Adotaia  |
-| Deusely Mesquita  | 53  | Sim | Casa        | 2 a 3     | Trabalha          | Sair com os amigos     | 1   | Não      |
-| Giulia Gonzaga    | 19  | Sim | Casa        | 2 a 3     | Estuda            | Conhecer lugares       | 1   | Não      |
-| Gabriela de Jesus | 18  | Sim | Casa        | 2 a 3     | Estuda            | Séries                 | 2   | Adotaria |
-| Nicoly Ebani      | 16  | Não | Casa        | 2 a 3     | Estuda            | Sair com os amigos     | 3   | Adotaria |
-| Aline Brandão     | 18  | Sim | Casa        | Mais de 5 | Estuda            | Séries                 | 2   | Não      |
-| Kennya Feliz      | 19  | Sim | Casa        | 2 a 3     | Estuda            | Celular, ler e jogar   | 1   | Adotaria |
-| Eliel dos Passos  | 19  | Sim | Casa        | 2 a 3     | Estuda            | Series, anime e jogar  | Não | Não      |
-| Shelly Alvarenga  | 18  | Sim | Casa        | 2 a 3     | Estuda            | Ler                    | +10 | Adotaria |
-| Fernando Postay   | 18  | Sim | Casa        | 2 a 3     | Desempregado      | Surfar                 |     | Adotaria |
-| Daniel Carneiro   | 20  | Sim | Casa        | 1         | Trabalha          | Dormir                 | Não | Não      |
-| Sthefany Gonçalvez| 24  | Sim | Apartamento | 2 a 3     | Trabalha          | Sair                   | Não | Adotaria |
-| Ariel Cristine    | 20  | Não | Casa        | 2 a 3     | Estuda            |                        || Adotaria |
-||||||||| Adotaria |
-||||||||||
-||||||||||
-||||||||||
-
+| Nome                  | 2   |  3  | 4           | 5         | 6                 | 7                      | 8   | 9        |
+| :-------------------: | :-: | :-: | :---------: | :-------: | :---------------: | :--------------------: | :-: | :------: |
+| Stéfano Cypestre      | 19  | Não | Casa        | 4 a 5     | Estuda            | Música                 | Não | Adotaria |
+| Igor Pereira          | 32  | Sim | Apartamento | 2 a 3     | Trabalha e estuda |                        | Não | Não      |
+| Alicy Lessa           | 15  | Sim | Casa        | 4 a 5     | Estuda            | Ler                    | Não | Adotaria |
+| Gabriela Pizano       | 18  | Sim | Apartamento | 1         | Trabalha e estuda | Filmes e séries        | 1   | Adoratia |
+| Suzan Velasco         | 19  | Sim | Casa        |           | Trabalha e estuda | Brincar com o cachorro | 3   | Adotaria |
+| Evelyn Soeiro         | 19  | Não | Casa        | 4 a 5     | Estuda            | Sair com os amigos     | 2   | Adotaria |
+| Felipe Xavier         | 18  | Sim | Casa        | 2 a 3     | Estuda            | Ver animes             | 2   | Adotaria |
+| Amanda Taufner        | 18  | Não | Casa        | 4 a 5     | Estuda e trabalha | Filmes, séries e praia | 4   | Adotaria |
+| Thais Barbosa         | 24  | Não | Casa        | 2 a 3     | Trabalha          | Sair com os amigos     | Não | Não      |
+| Matheus Felipe        | 19  | Sim | Casa        | 4 a 5     | Estuda            | Procrastinar           | 1   | Adotaia  |
+| Deusely Mesquita      | 53  | Sim | Casa        | 2 a 3     | Trabalha          | Sair com os amigos     | 1   | Não      |
+| Giulia Gonzaga        | 19  | Sim | Casa        | 2 a 3     | Estuda            | Conhecer lugares       | 1   | Não      |
+| Gabriela de Jesus     | 18  | Sim | Casa        | 2 a 3     | Estuda            | Séries                 | 2   | Adotaria |
+| Nicoly Ebani          | 16  | Não | Casa        | 2 a 3     | Estuda            | Sair com os amigos     | 3   | Adotaria |
+| Aline Brandão         | 18  | Sim | Casa        | 5 ou mais | Estuda            | Séries                 | 2   | Não      |
+| Kennya Feliz          | 19  | Sim | Casa        | 2 a 3     | Estuda            | Celular, ler e jogar   | 1   | Adotaria |
+| Eliel dos Passos      | 19  | Sim | Casa        | 2 a 3     | Estuda            | Series, anime e jogar  | Não | Não      |
+| Shelly Alvarenga      | 18  | Sim | Casa        | 2 a 3     | Estuda            | Ler                    | +10 | Adotaria |
+| Fernando Postay       | 18  | Sim | Casa        | 2 a 3     | Desempregado      | Surfar                 |     | Adotaria |
+| Daniel Carneiro       | 20  | Sim | Casa        | 1         | Trabalha          | Dormir                 | Não | Não      |
+| Sthefany Gonçalvez    | 24  | Sim | Apartamento | 2 a 3     | Trabalha          | Sair                   | Não | Adotaria |
+| Ariel Cristine        | 20  | Não | Casa        | 2 a 3     | Estuda            |                        | 2   | Adotaria |
+| Ana Victória Santos   | 18  | Sim | Casa        | 4 a 5     | Desempregada      | Séries e dormir        | Não | Adotaria |
+| Luis Guilherme Sillos | 18  | Sim | Apartamento | 4 a 5     | Estuda            | Sair com os amigos     | 2   | Adotaria |
+| Nicoly Vianna         | 19  | Não | Apartamento | 2 a 3     | Trabalha e estuda | Filmes                 |     | Não      |
+| Izabel Gonçalvez      | 51  | Sim | Casa        | 1         | Trabalha          | Filmes e ver o neto    | 1   | Adotaria |
+| Gabriel Pauli         | 18  | Sim | Casa        | 4 a 5     | Estuda            | Filmes, jogar e siar   | 1   | Adotaria |
+| Adriel Lessa          | 14  | Não | Casa        | 4 a 5     | Estuda            | Celular                | 1   | Adotaria |
+|Cássio Nascimento      | 29  | Não | Casa        | 4 a 5     | Estuda e tarbalha | Comer e ir no cinema   | Não | Não      |
+| Paloma Helena         | 25  | Sim | Apartameto  | 2 a 3     | Trabalha          | Filmes e comer         | Não | Não      |
+| Julia Nascimento      | 18  | Sim | Casa        | 4 a 5     | Estuda            | Séries                 | 1   | Adotaria |
+| Elias Mesquita        | 50  | Sim | Apartamento | 2 a 3     | Trabalha          | Futebol                | 1   | Adotaria |
+| Llilian Nascimento    | 40  | Não | Apartamento | 2 a 3     | Trabalha e estuda | Passear                | 1   | Não      |
+| Fernanda Souza        | 17  | Não | Casa        | 2 a 3     | Estuda            |                        | 3   | Adotaria |
+| Mariana Alvarenga     | 19  | Sim | Casa        | 2 a 3     | Estuda e trabalha | Dormir e comer         | 8   | Adotaria |
+| Gustavo Mesquita      | 20  | Não | Casa        | 2 a 3     | Estuda e trabalha | Sair com os amigos     | 1   | Não      |
+| Daniele Amorin        | 31  | Sim | Apartamento | 2 a 3     | Trabalha          |                        | Não | Não      |
+| Gabriel Louzada       | 26  | Sim | Apartamento | 2 a 3     | Trabalha          |                        | Não | Não      |
+| Talyta Meireles       | 20  | Sim | Casa        | 2 a 3     | Desempregada      |                        | Não | Adotaria |
+| Rodolfo Delai         | 19  | Sim | Casa        | 4 a 5     | Trabalha          |                        |     | Não      |
+| Arthur Kaun           | 19  | Sim | Casa        | 5 ou mais | Estuda            | Sair com os amigos     | 4   | Não      |
+| Letícia Belarmino     | 24  | Não | Apartamento | 2 a 3     | Trabalha          |                        |     | Não      |
+| Suellen Pimentel      | 25  | Sim | Casa        |           | Trabalha          | Filmes, shows e ler    |     | Adotaria |
+| Adrielly Lessa        | 18  | Sim | Casa        | 4 a 5     | Estuda e trabalha | Música, filmes e comida| 1   | Adotaria |
+| Alexandre Bergamine   | 19  |     | Casa        | 5 ou mais | Estuda            |                        |     | Adotaria |
+| Jhonaran Rosário      | 20  | Sim | Casa        | 4 a 5     | Estuda            | Anime, ler e jogar     | 1   | Adotaria |
+| Alana Binda           | 29  | Não | Casa        |           | Estuda e trabalha | Estudos e atividade f. | 1   | Adotaria |
+| Dulcineia Oliveira    | 41  | Não | Apartamento | 1         | Trabalha          | Dormir e estudar       | Não | Não      |
+| Ulisses Pereira       | 27  | Não | Casa        | 2 a 3     | Trabalho          | Dormir e estudar       | 2   | Não      |
+| Lizania Alvarenga     | 36  | Não | Apartamento | 2 a 3     | Trabalha e estuda | Ler e netflix          | Não | Não      |
 
 
 
