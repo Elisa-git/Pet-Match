@@ -13,15 +13,13 @@
 ## **Dados coletados**
 
 ```
-Stéfano Cypestre (19)             Igor Pereira (32)
-*Não                              *Sim
-*Casa                             *Apartamento
-*4 a 5
-*Estuda
-*Músca
-*Não
-*Adotaria
-```
-```
+| Nome  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| ----- | - | - | - | - | - | - | - | - |
+|  Stéfano Cypestre |  19 | Não | 4 a 5 | Estuda | Música | Não | Adotaria |
+|  Igor Pereira |  32 |
+
+
+
 
 ```
+
