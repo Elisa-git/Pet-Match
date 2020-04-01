@@ -1,8 +1,8 @@
 # Pet Match
 
 ***Perguntas***
-**1 -** Idade
-**2 -** Passa muito tempo em casa?
+***1 -** Idade
+***2 -** Passa muito tempo em casa?
 **3 -** Qual ocupação?
 **4 -** O que faz no tempo livre?
 **5 -** Tipo de moradia
