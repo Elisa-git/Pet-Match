@@ -13,5 +13,15 @@
 ## **Dados coletados**
 
 ```
-Stéfano Cypestre:
+Stéfano Cypestre (19)
+* Não
+* Casa
+* 4 a 5
+* Estuda
+* Músca
+* Não
+* Adotaria
+```
+```
+
 ```
