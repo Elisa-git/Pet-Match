@@ -28,6 +28,8 @@
 | Deusely Mesquita  | 53 | Sim | Casa        | 2 a 3 | Trabalha          | Sair com os amigos     | 1   | Não      |
 | Giulia Gonzaga    | 19 | Sim | Casa        | 2 a 3 | Estuda            | Conhecer lugares       | 1   | Não      |
 | Gabriela de Jesus | 18 | Sim | Casa        | 2 a 3 | Estuda            | Séries                 | 2   | Adotaria |
+
+
 | |||||||||
 ||||||||||
 ||||||||||
