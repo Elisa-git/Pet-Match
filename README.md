@@ -12,3 +12,6 @@
 
 ## **Dados coletados**
 
+```
+Stéfano Cypestre:
+```
