@@ -31,7 +31,7 @@
 | Giulia Gonzaga        | 19  | Sim | Casa        | 2 a 3     | Estuda            | Conhecer lugares       | 1   | Não      |
 | Gabriela de Jesus     | 18  | Sim | Casa        | 2 a 3     | Estuda            | Séries                 | 2   | Adotaria |
 | Nicoly Ebani          | 16  | Não | Casa        | 2 a 3     | Estuda            | Sair com os amigos     | 3   | Adotaria |
-| Aline Brandão         | 18  | Sim | Casa        | 5 ou mais | Estuda            | Séries                 | 1  não  |
+| Aline Brandão         | 18  | Sim | Casa        | 5 ou mais | Estuda            | Séries                 | 1     Não|
 | Kennya Feliz          | 19  | Sim | Casa        | 2 a 3     | Estuda            | Celular, ler e jogar   | 1   | Adotaria |
 | Eliel dos Passos      | 19  | Sim | Casa        | 2 a 3     | Estuda            | Series, anime e jogar  | Não | Não      |
 | Shelly Alvarenga      | 18  | Sim | Casa        | 2 a 3     | Estuda            | Ler                    | +10 | Adotaria |
