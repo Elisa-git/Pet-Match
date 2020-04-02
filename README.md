@@ -87,7 +87,7 @@ Tem animal (29 pessoas): 22 adotariam, enquanto 7 não adotariam
 Pouco tempo em casa (16 pessoas): 9 pessoas não adotariam, enquanto 7 pessoas adotariam
 Muito tempo em casa (31 pessoas): 20 pessoas adotariam, enquanto 11 não adotariam
 ```
-* Pessoas que passam 
+* Pessoas
 
 * Pessoas que moram em apartamento tendem a não querer adotar animais ou a ter somente 1;
 * Pessoas entre 17 a 20 anos tendem a querer adotar um pet online;
