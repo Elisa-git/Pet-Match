@@ -91,8 +91,8 @@
 
 * Pessoas que trabalham tendem a não querer adotar, porém esse caso é contrário quando a pessoa somente estuda;
 ```
-Trabalha (40 pessoas): 18 pessoas adotariam, enquanto 22 não adotariam
-Estuda (48 pessoas): 30 pessoas adotariam, enquanto 20 não adotaria
+Trabalha (26 pesso) : 11 pessoas adotariam, enquanto 14 pessoas não ad adotariam.
+Estuda (23 pessoas) : 18 pessoas adotariam, quanto 5 pessoas não adotariam
 ```
 * Pessoas que não tem um animal tendem a não querer adotar, assim como as que já tem tendem a querer adotar. 
 ```
