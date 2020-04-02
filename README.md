@@ -6,16 +6,16 @@
 2. Passa muito tempo em casa?</br>
 3. Mora em casa ou apartamento?</br>
 4. Qual ocupação?</br>
-5. O que faz no tempo livre?</br>
+5. Com quantas pessoas mora</br>
 6. Tipo de moradia</br>
-7. Com quantas pessoas mora</br>
+7. O que faz no tempo livre?</br>
 8. Possui animais de estimação? Quantos?</br>
 9. Adotaria um animal pela internet?</br>
 </p>
 
 ## **Dados coletados**
 
-| Nome                  | 2   |  3  | 4           | 7         | 6                 | 5                      | 8   | 9        |
+| Nome                  | 2   |  3  | 4           | 5         | 6                 | 7                      | 8   | 9        |
 | :-------------------: | :-: | :-: | :---------: | :-------: | :---------------: | :--------------------: | :-: | :------: |
 | Stéfano Cypestre      | 19  | Não | Casa        | 4 a 5     | Estuda            | Música                 | Não | Adotaria |
 | Igor Pereira          | 32  | Sim | Apartamento | 2 a 3     | Trabalha e estuda |                        | Não | Não      |
