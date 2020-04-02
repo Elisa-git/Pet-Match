@@ -2,15 +2,15 @@
 
 ## ***Perguntas***
 <p>
-**1 .** Idade</br>
-**2 .** Passa muito tempo em casa?</br>
-**3 .** Mora em casa ou apartamento?</br>
-**4 .** Qual ocupação?</br>
-**5 .** O que faz no tempo livre?</br>
-**6 .** Tipo de moradia</br>
-**7 .** Com quantas pessoas mora</br>
-**8 .** Possui animais de estimação? Quantos?</br>
-**9 .** Adotaria um animal pela internet?</br>
+1. Idade</br>
+2. Passa muito tempo em casa?</br>
+3. Mora em casa ou apartamento?</br>
+4. Qual ocupação?</br>
+5. O que faz no tempo livre?</br>
+6. Tipo de moradia</br>
+7. Com quantas pessoas mora</br>
+8. Possui animais de estimação? Quantos?</br>
+9. Adotaria um animal pela internet?</br>
 </p>
 
 ## **Dados coletados**
@@ -72,6 +72,16 @@
 
 ## **Conclusões**
 
+* Pessoas que trabalham tendem a não querer adotar, porém esse caso é contrário quando a pessoa somente estuda;
+```
+Trabalha (36 pessoas): 16 pessoas adotariam, enquanto 20 não adotariam
+Estuda (48 pessoas): 30 pessoas adotariam, enquanto 20 não adotaria
+```
+* Pessoas que não tem um animal tendem a não querer adotar, assim como as que já tem tendem a querer adotar;
+```
+Não tem animal (15 pessoas): 10 não adotariam, enquanto 5 adotariam
+Tem animal (29 pessoas): 22 adotariam, enquanto 7 não adotariam
+```
 * Pessoas que passam pouco tempo em casa tendem a não adotar, assim como pessoas que passam muito tempo tendem a adotar;
 ```
 Pouco tempo em casa (16 pessoas): 9 pessoas não adotariam, enquanto 7 pessoas adotariam
