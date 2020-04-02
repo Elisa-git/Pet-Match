@@ -69,23 +69,20 @@
 | Lizania Alvarenga     | 36  | Não | Apartamento | 2 a 3     | Trabalha e estuda | Ler e netflix          | Não | Não      |
 | Giselly Neves         | 41  | Sim | Casa        | 5         | Trabalha          | Filme e séries         | Não | Adotaria |
 | Cícero Nascimento 19  | 52  | Sim | Casa        | 4 a 5     | Trabalha          | Montar algo            | 1   | Não      |
-| Ana Lúcia Reis        | 46  | Não | Casa        | 4 a 5     | Trabalha          | Dormir e TV            | 1   | Sim      |
-| Luiz Dias  20         | 26  | Sim | Casa        | 5 ou mais | Desempregado      | Jogar                  |||
-| Sabrina (Mat) Ferreira| 19  | Sim | Apartamento | 2 a 3     | Trabalha          |                        |||
-| Alisson Queiroz  21   | 31  | Sim | Casa        | 2 a 3     | Estuda            | Estudar e jogar        |||
-| Sara Matos            | 19  | Sim | Apartamento | 2 a 3     | Trabalha          | Descançar              |||
-| Gabryel Knaip  22     | 25  | Sim | Casa        | 4 a 5     | Trabalha          | Ir para roça           |||
-| Kaleb Lelis  23       | 24  | Não | Casa        | 4 a 5     | Estuda            |                        |||
-| Fernando Calhau  24   | 33  | Sim | Casa        | 4 a 5     | Trabalha          | Filmes e séries        |||
-| Natalia Rodrigues     | 23  | Sim | Casa        | 2 a 3     |                   |                        |||
-| Eliane Pereira        | 29  | Sim | Casa        | 2 a 3     | Desempregada      | Fazer bolo             |||
-| Gabrielli Souza       | 22  |     | Casa        | 4 a 5     | Trabalha          | Séries e ler           |||
-| Markos Korbes    25   | 22  | Não | Casa        | 2 a 3     | Trabalha          | Ler, música, jogar     |||
-| Lilia Santana         | 21  | Não | Apartamento | 2 a 3     | Trabalha          | Comer                  |||
-| Marcos Vinicius Dias26| 22  | Não | Casa        |           | Trabalha          |                        |||
-||||||||||
-||||||||||
-||||||||||
+| Ana Lúcia Reis        | 46  | Não | Casa        | 4 a 5     | Trabalha          | Dormir e TV            | 1   | Adotaria |
+| Luiz Dias  20         | 26  | Sim | Casa        | 5 ou mais | Desempregado      | Jogar                  | 1   | Não      |
+| Sabrina (Mat) Ferreira| 19  | Sim | Apartamento | 2 a 3     | Trabalha          |                        | 2   |          |
+| Alisson Queiroz  21   | 31  | Sim | Casa        | 2 a 3     | Estuda            | Estudar e jogar        | 2   | Adotaria |
+| Sara Matos            | 19  | Sim | Apartamento | 2 a 3     | Trabalha          | Descançar              | Não | Adotaria |
+| Gabryel Knaip  22     | 25  | Sim | Casa        | 4 a 5     | Trabalha          | Ir para roça           | 2   | Adotaria |
+| Kaleb Lelis  23       | 24  | Não | Casa        | 4 a 5     | Estuda            |                        |     | Não      |
+| Fernando Calhau  24   | 33  | Sim | Casa        | 4 a 5     | Trabalha          | Filmes e séries        | 3   | Adotaria |
+| Natalia Rodrigues     | 23  | Sim | Casa        | 2 a 3     |                   |                        | 6   | Adotaria |
+| Eliane Pereira        | 29  | Sim | Casa        | 2 a 3     | Desempregada      | Fazer bolo             |     | Não      |
+| Gabrielli Souza       | 22  |     | Casa        | 4 a 5     | Trabalha          | Séries e ler           | 1   | Adotaria |
+| Markos Korbes    25   | 22  | Não | Casa        | 2 a 3     | Trabalha          | Ler, música, jogar     | 2   | Adotaria |
+| Lilia Santana         | 21  | Não | Apartamento | 2 a 3     | Trabalha          | Comer                  |     | Não      |
+| Marcos Vinicius Dias26| 22  | Não | Casa        |           | Trabalha          |                        | 1   | Não      |
 
 ## **Conclusões**
 
