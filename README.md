@@ -1,15 +1,17 @@
 # Pet Match
 
 ## ***Perguntas***
-* **1 -** Idade
-* **2 -** Passa muito tempo em casa?
-* **3 -** Mora em casa ou apartamento?
-* **4 -** Qual ocupação?
-* **5 -** O que faz no tempo livre?
-* **6 -** Tipo de moradia
-* **7 -** Com quantas pessoas mora
-* **8 -** Possui animais de estimação? Quantos?
-* **9 -** Adotaria um animal pela internet?
+<p>
+**1 .** Idade</br>
+**2 .** Passa muito tempo em casa?</br>
+**3 .** Mora em casa ou apartamento?</br>
+**4 .** Qual ocupação?</br>
+**5 .** O que faz no tempo livre?</br>
+**6 .** Tipo de moradia</br>
+**7 .** Com quantas pessoas mora</br>
+**8 .** Possui animais de estimação? Quantos?</br>
+**9 .** Adotaria um animal pela internet?</br>
+</p>
 
 ## **Dados coletados**
 
