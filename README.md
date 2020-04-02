@@ -90,9 +90,13 @@
 ## **Conclusões**
 
 * Pessoas que trabalham tendem a não querer adotar, porém esse caso é contrário quando a pessoa somente estuda;
+* Pessoas aposentadas tendem a adotar, enquanto pessoas que trabalham e estudam tendem a adotar ou não na mesma medida; Pessoas desempregadas tendem a adotar mais;
 ```
-Trabalha (26 pesso) : 11 pessoas adotariam, enquanto 14 pessoas não ad adotariam.
+Trabalha (26 pesso) : 11 pessoas adotariam, enquanto 14 pessoas não adotariam
 Estuda (23 pessoas) : 18 pessoas adotariam, quanto 5 pessoas não adotariam
+Desempregados (6 pessoas) : 4 pessoas adotariam, enquanto 2 pessoas não adotariam
+Aposentados(2 pessoas):  2 pessoas adotariam
+Trabalha e estuda (12 pessoas) : 6 pessoas adotariam, enquanto 6 pessoas não adotariam.
 ```
 * Pessoas que não tem um animal tendem a não querer adotar, assim como as que já tem tendem a querer adotar. 
 ```
