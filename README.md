@@ -67,7 +67,7 @@
 | Dulcineia Oliveira    | 41  | Não | Apartamento | 1         | Trabalha          | Dormir e estudar       | Não | Não      |
 | Ulisses Pereira       | 27  | Não | Casa        | 2 a 3     | Trabalho          | Dormir e estudar       | 2   | Não      |
 | Lizania Alvarenga     | 36  | Não | Apartamento | 2 a 3     | Trabalha e estuda | Ler e netflix          | Não | Não      |
-| Giselly Neves         | 41  | Sim | Casa        | 5         | Trabalha          | Filme e séries         | Não | Sim      |
+| Giselly Neves         | 41  | Sim | Casa        | 5         | Trabalha          | Filme e séries         | Não | Adotaria      |
 
 
 ## **Conclusões**
