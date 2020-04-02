@@ -15,11 +15,11 @@
 
 ## **Dados coletados**
 
-| Nome                  | 2   |  3  | 4           | 5         | 6                 | 7                      | 8   | 9        |
-| :-------------------: | :-: | :-: | :---------: | :-------: | :---------------: | :--------------------: | :-: | :------: |
-| Stéfano Cypestre      | 19  | Não | Casa        | 4 a 5     | Estuda            | Música                 | Não | Adotaria |
-| Igor Pereira          | 32  | Sim | Apartamento | 2 a 3     | Trabalha e estuda |                        | Não | Não      |
-| Alicy Lessa           | 15  | Sim | Casa        | 4 a 5     | Estuda            | Ler                    | Não | Adotaria |
+  | Nome                  | 2   |  3  | 4           | 5         | 6                 | 7                      | 8   | 9        |
+  | :-------------------: | :-: | :-: | :---------: | :-------: | :---------------: | :--------------------: | :-: | :------: |
+1 | Stéfano Cypestre      | 19  | Não | Casa        | 4 a 5     | Estuda            | Música                 | Não | Adotaria |
+2 | Igor Pereira          | 32  | Sim | Apartamento | 2 a 3     | Trabalha e estuda |                        | Não | Não      |
+3 | Alicy Lessa           | 15  | Sim | Casa        | 4 a 5     | Estuda            | Ler                    | Não | Adotaria |
 | Gabriela Pizano       | 18  | Sim | Apartamento | 1         | Trabalha e estuda | Filmes e séries        | 1   | Adoratia |
 | Suzan Velasco         | 19  | Sim | Casa        |           | Trabalha e estuda | Brincar com o cachorro | 3   | Adotaria |
 | Evelyn Soeiro         | 19  | Não | Casa        | 4 a 5     | Estuda            | Sair com os amigos     | 2   | Adotaria |
