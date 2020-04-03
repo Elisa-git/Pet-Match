@@ -111,7 +111,7 @@ Muito tempo em casa (43 pessoas) : 29 pessoas adotariam, enquanto 14 não adotar
 ```
 * Pessoas que moram em apartamento tendem a não querer adotar animais ou a ter somente 1;
 * Pessoas entre 17 a 20 anos tendem a querer adotar um pet online;
-``
+````
 17-20 anos (32 pessoas): 24 pessoas adotariam, enquanto 8 pessoas não adotariam;
 ```
 * Pessoas entre 21 e 40 anos tendem a não adotar;
@@ -122,10 +122,7 @@ Muito tempo em casa (43 pessoas) : 29 pessoas adotariam, enquanto 14 não adotar
 ```
 41-80 anos (9 pessoas) : 6 pessoas adotariam, enquanto 3 não adotariam.
 ```
-* Pessoas com idade por volta dos 50 que passam mais tempo em casa tendem a adotar animais, em sua maioria.
+* Melheres tendem a adotar mais que homens;
 ```
-50 a 51 (2 pessoas): Adotariam
-52 e 53 (2 pessoas): Não adotaria
-57 (1 pessoa): Adotaria
-68 (1 pessoa): Adotaria
+15 homens adotariam, enquanto 26 mulheres adotariam.
 ```
