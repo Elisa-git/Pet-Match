@@ -87,6 +87,7 @@
 | Geraldo Gumercindo 27   | 68  | Sim | Casa        | 2 a 3     | Aposentado        | Andar de carro         |     | Adotaria |
 | Roberta Kelly           | 37  | Não | Casa        | 3         | Trabalha          | Artesanato             | 1   | Não      |
 
+*Em alguns casos, algumas respostas foram ignoradas por falta de respostas em perguntas.
 ## **Conclusões**
 
 * Pessoas que trabalham tendem a não querer adotar, porém esse caso é contrário quando a pessoa somente estuda;
@@ -100,8 +101,8 @@ Trabalha e estuda (12 pessoas) : 6 pessoas adotariam, enquanto 6 pessoas não ad
 ```
 * Pessoas que não tem um animal tendem a não querer adotar, assim como as que já tem tendem a querer adotar. 
 ```
-Não tem animal (18 pessoas): 10 não adotariam, enquanto 8 adotariam
-Tem animal (32 pessoas): 23 adotariam, enquanto 9 não adotariam
+Não tem animal (20 pessoas) : 8 adotariam, quanto 12 não adotariam
+Tem animal (41 pessoas) : 29 pessoas adotariam, quanto 11 não adotariam.
 ```
 * Pessoas que passam pouco tempo em casa tendem a não adotar, assim como pessoas que passam muito tempo tendem a adotar;
 ```
