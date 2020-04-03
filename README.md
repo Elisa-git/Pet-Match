@@ -117,12 +117,12 @@ Muito tempo em casa (43 pessoas) : 29 pessoas adotariam, enquanto 14 não adotar
 * Pessoas entre 21 e 40 anos tendem a não adotar;
 ```
 21-40 anos (25 pessoas) : 9 pessoas adotariam, enquanto 16 pessoas não adotariam;
-```
+``
 * Pessoas entre 41-80 anos tendem a adotar mais;
-```
+``
 41-80 anos (9 pessoas) : 6 pessoas adotariam, enquanto 3 não adotariam.
-```
+``
 * Melheres tendem a adotar mais que homens;
-```
+``
 15 homens adotariam, enquanto 26 mulheres adotariam.
-```
+``
