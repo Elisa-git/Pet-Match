@@ -13,7 +13,7 @@
 9. Adotaria um animal pela internet?</br>
 </p>
 
-## **Dados coletados**
+### **Dados coletados**
 
 | Nome                    | 2   |  3  | 4           | 5         | 6                 | 7                      | 8   | 9        |
 | :---------------------: | :-: | :-: | :---------: | :-------: | :---------------: | :--------------------: | :-: | :------: |
@@ -88,7 +88,7 @@
 | Roberta Kelly           | 37  | Não | Casa        | 3         | Trabalha          | Artesanato             | 1   | Não      |
 
 *Em alguns casos, algumas pessoas foram ignoradas por falta de resposta a pergunta.
-## **Conclusões**
+### **Conclusões**
 
 * Pessoas que trabalham tendem a não querer adotar, porém esse caso é contrário quando a pessoa somente estuda;
 * Pessoas aposentadas tendem a adotar, enquanto pessoas que trabalham e estudam tendem a adotar ou não na mesma medida; Pessoas desempregadas tendem a adotar mais;
@@ -122,7 +122,22 @@ Muito tempo em casa (43 pessoas) : 29 pessoas adotariam, enquanto 14 não adotar
 ``
 41-80 anos (9 pessoas) : 6 pessoas adotariam, enquanto 3 não adotariam.
 ``
-* Melheres tendem a adotar mais que homens;
+* Mulheres tendem a adotar mais que homens;
 ``
 15 homens adotariam, enquanto 26 mulheres adotariam.
 ``
+
+## **Perfis**
+
+### **Proprietária**
+
+**Nome:** Maria Clara
+**Ocupação:** Professora aposentada
+**História:** Todo animal que encontra abandonado nas ruas de seu bairro ela leva para casa, contudo não possui o suporte para abrigar tantos animais e, por isso, deseja fazer um site de adoção. 
+**User Story:** Como proprietária do site que faz adoção de pets eu quero anunciar os pets que tenho disponíveis para adoção, suas características, informações e fotos, porque desejo que estes animais sejam adotados.
+
+### **Usuário**
+
+**Nome:** Mariana Estevam
+**Ocupação:** Estudante
+**User Story:** Como pessoa interessada em adotar um animal eu desejo definir o tipo (cão ou gato, ou os dois) além de definir características e ter informações sobre o animal, porque desejo fazer uma escolha consciente de adoção.
